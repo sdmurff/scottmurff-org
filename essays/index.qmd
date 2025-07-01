@@ -1,0 +1,98 @@
+# Essays
+
+This page collects essays, models, and reflections on strategy, decision-making, and the pursuit of a meaningful life. My goal is to share ideas that help individuals and organizations make better choices, navigate uncertainty, and build a fulfilling life.
+
+## A Reflection on the Historical Person Known as Jesus
+
+Jesus can be seen as the most revolutionary person to ever live. How so?
+
+He overthrew the most dominant force on earth: human nature.
+
+Human nature says: despise your enemies, Jesus taught: "love them"
+
+Human nature says: don't put boundaries on me, Jesus taught: "not my will" only and "deny yourself"
+
+Human nature says: dominate others, Jesus taught: "he that is greatest among you shall be your servant"
+
+Perhaps the most knowledgeable world historian ever, the person who literally wrote the 11-volume Story of Civilization, Will Durrant, who did not himself believe in the divinity of Jesus, was asked who his most admired person in history was. His instantaneous response: "without any doubt, I would say Jesus Christ." His teachings are "enormously important to living in a social order." They are "enormously desirable as a counter action to our natural individualism"
+
+Another historian observed that beyond his role in Christianity, Jesus is a "figure of significance in Islam, a messenger of God who appears in the Qur’an. Many Hindus and Buddhists have interpreted him favourably within the perspectives of their own traditions. Recently, some Jewish thinkers have been reclaiming Jesus as an authentically Jewish teacher. There have been appreciative Marxist readings of Jesus. There are New Age versions of Jesus. Moreover, respecting Jesus while denouncing the church has become a common attitude."
+
+Even so, it's common and easy to criticize and blame Jesus and religious traditions for numberless human conflicts. This criticism and judgement is misplaced. Human nature will always find plenty to fight about, it doesn't need help from religion. On the contrary, the teachings of Jesus (many of which are shared by other faith traditions) are the most powerful forces on earth to overcome the destructive parts of human nature.
+
+Why is all this relevant for a professional audience? Because many of the revolutionary teachings of Jesus are exactly those that would help employees and by extension businesses thrive.
+
+So regardless of whether you call yourself atheist, agnostic, christian, buddhist, jewish, muslim, hindu, unaffiliated, or something else, we can all be grateful for the teachings of Jesus. The same should be said for the wise words from all of history's other great teachers.
+
+How is it that, 2,000 year after he was born, we are still talking about a man from an obscure village with no wealth, political office, or military power?
+
+We each form our own answer to that question but one thing I believe is: "there is no greater, more thrilling, and more soul-ennobling challenge than to try to learn of Christ and walk in His steps."
+
+## The Relationships Between Belief and Truth
+
+Below is a diagram that captures important relationships between what we believe and what is true. A critical goal in life is aligning our beliefs with what is true.
+
+![](../images/print-venn-5.jpg){ fig-align="center"}
+
+Each intersection or segment represents a specific combination of belief and truth, leading to the defined categories listed below:
+
+- **Knowledge**  
+  The intersection of *Belief* and *Truth* when the evidence is high. Represents the things you believe that are true for which there is a high degree of evidence proving their truth.
+
+- **True Faith**  
+  The intersection of *Belief* and *Truth* with limited evidence. Represents things you believe that are true but for which there is limited evidence proving their truth.
+
+- **Vain Faith**  
+  Part of *Belief* but outside *Truth*, with limited evidence. Represents things you believe that are actually false and for which there is limited evidence proving their falsehood.
+
+- **Delusion**  
+  Part of *Belief* but outside *Truth*, with high evidence that it is false (but evidence is ignored). Represents the things that a person believes which are false, and for which there is a high degree of evidence they are false but that the person ignores or discounts.
+
+- **Unawareness**  
+  Part of *Truth* because it is known by others with high evidence, but outside of *Belief* for a given person because of their lack of awareness of the available evidence.
+
+- **Unexplored**  
+  Part of *Truth* but not yet *Belief* because it hasn’t been discovered or confirmed. Represents undiscovered truths.
+
+A color gradient is used as a visual enhancement within both circles, including the intersected portion. It runs bottom to top starting with white and ending with dark blue at the top. The gradient represents the degree of evidence available for a given proposition that would fall in one of the categories. Dark blue would be 100% evidence and white would be 0% evidence.
+
+What can we learn from this diagram?
+
+- By definition, it’s impossible to know with complete certainty if a given assertion, for which only limited evidence is available, is *true faith* or *false faith*. Only as more evidence accumulates will this become clear.
+- It’s likely the case that everyone can see themself in each segment of the diagram.
+  - Because of this, we should be patient with ourselves and others as we gradually refine our understanding.
+  - We should be forgiving of ourselves and others when beliefs later prove to be misplaced.
+  - We should adopt a spirit of humility as we continue to seek more truth and allow our beliefs to be refined as new evidence emerges.
+  
+## Decision Quality: A Practical Model for Better Outcomes
+
+High-quality decisions are the foundation of effective strategy and good stewardship. I’ve developed a framework for decision quality built around three core components:
+
+1. **Information Quality**  
+   Do you have the right facts? High-quality information means you have access to or knowledge of information that is relevant, timely, and correct.
+
+2. **Reasoning Quality**  
+   Are you making sense of the information logically to formulate your plan of action? This requires clear mental models, structured problem solving, and emotional regulation. 
+
+3. **Execution Quality**  
+   Are you executing with a high degree of fidelity? Even the best plans fail without disciplined follow-through. Execution quality is about ensuring that decisions translate into coordinated, consistent action.
+
+This can be visualized conceptually as a simple equation:
+
+$$
+\text{Outcome Quality} = f(\text{Information Quality}, \text{Reasoning Quality}, \text{Execution Quality})
+$$
+
+Each component is necessary but not sufficient on it's own, you need all three. For example:
+
+- Great reasoning applied to poor information yields confident mistakes.
+- Great information and great reasoning without execution produces no impact.
+- Strong execution of a poor decision leads to failure faster.
+
+This model draws inspiration from both classic strategy frameworks and contemporary research on decision-making under uncertainty.
+
+**Full article coming soon.**
+
+
+
+

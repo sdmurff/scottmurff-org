@@ -1,0 +1,20 @@
+# Teaching Overview
+
+I teach courses designed to help students develop practical skills and frameworks at the intersection of strategy, artificial intelligence, and product management. My teaching philosophy emphasizes hands-on experience.
+
+Below are my current courses and resources:
+
+## STRAT 490R: Understanding AI: From Foundations to Strategy
+[Course Website](https://byu-strategy.github.io/understanding-ai/)
+
+This course guides students through understanding how AI works from first principles. We explore foundational topics such as machine learning, large language models, and prompt engineering, while also addressing ethical and organizational considerations for adopting AI in practice.
+
+## STRAT 490R: Strategy & Prototyping: Creating Digital Products
+[Course Website](https://byu-strategy.github.io/strategy-prototyping/)
+
+Strategy & Prototyping focuses on helping students apply lean product development principles to design, build, and test digital solutions. The course combines strategic thinking, rapid experimentation, and AI-powered prototyping to accelerate innovation.
+
+## STRAT 325: Introduction to Management Consulting
+[Course Website](https://byu-strategy.github.io/management-consulting/)
+
+This course provides an introduction to structured problem solving, client engagement, and the core toolkit of management consulting. Students learn how to frame problems, conduct rigorous analysis, and deliver clear, compelling recommendations.

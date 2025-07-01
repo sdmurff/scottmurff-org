@@ -1,0 +1,17 @@
+---
+format:
+  html:
+    toc: false
+page-layout: full
+---
+
+# Working with BYU Students
+
+I’m fortunate to work alongside exceptional students at Brigham Young University (BYU). My teaching, research, and projects are all enriched by the energy, curiosity, and dedication they bring.
+
+Each semester, I hire talented Teaching Assistants (TAs) and Research Assistants (RAs) to help support courses, develop new materials, and collaborate on projects related to strategy, AI, product management, and management consulting. These roles are an opportunity to gain hands-on experience, deepen subject-matter expertise, and build BYU's programs.
+
+If you’re a BYU student interested in working as a TA or RA, please [get in touch]().
+
+![](images/Strategy_Centered_blue_grey.png){width=30% fig-align="center"}
+

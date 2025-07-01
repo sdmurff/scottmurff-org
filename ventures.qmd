@@ -1,0 +1,36 @@
+---
+format:
+  html:
+    toc: false
+page-layout: full
+---
+
+# Ventures
+
+In addition to teaching and research, I help BYU students launch new ventures that I hope will improve lives . Below are a few of the projects I’m currently working on.
+
+## National Quiet Zone Association
+
+I co-founded the [National Quiet Zone Association](https://www.quietzones.us/), a benefit LLC created with two BYU students. Our mission is to help communities, policymakers, and residents navigate the complexities of establishing and maintaining train quiet zones that improve public health and quality of life.
+
+The Association provides research, guidance, and advocacy on quiet zone policy nationwide. Our work has been featured in the press:
+
+- [Deseret News — Provo to Salt Lake City Quiet Zone Reinstated](https://www.deseret.com/utah/2025/01/05/provo-salt-lake-city-quiet-zone-reinstated/)
+- [KSL — When Will the Train Horns Stop?](https://www.ksl.com/article/51154610/when-will-the-train-horns-stop-utahns-vent-as-cities-race-to-reestablish-quiet-zones)
+- [KUTV — Researcher says quiet zone suspension, train horns could have deadly consequences](https://kutv.com/news/2news-investigates/researcher-says-quiet-zone-suspension-and-train-horns-could-have-deadly-consequences)
+
+
+## Other Venture Ideas
+
+I’m exploring several other ideas that I think should exist. 
+
+- **Adaptive Glasses for Strabismus**  
+  A concept for smart glasses that automatically tint or shade when the wearer’s eyes are not properly aligned, offering a novel approach to treating strabismus (crossed eyes).
+
+- **Mortgage Sweep and Re-Lending Platform**  
+  A platform to help homeowners accelerate mortgage payoff by automatically sweeping excess cash to principal reduction and re-lending the equity only when it's needed to minimize interest expense.
+
+- **Realistic Bike Trailers for Kids**  
+  Bike trailers that look like real, miniature cars to motivate young children to enjoy riding along behind their parents.
+
+If you are interested in helping build these, please either take the idea and make it happen or [get in touch](mailto:scott.murff@byu.edu) and let's work together to build it.

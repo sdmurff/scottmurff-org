@@ -1,0 +1,64 @@
+---
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+# Research Overview
+
+I study decision making, risk-management, and the societal impacts of regulation.
+
+---
+
+## Publications
+
+### Response and Resilience in Operational-Risk Events
+**McKinsey & Company**  
+Mar 30, 2023  
+
+[Read the full publication ›](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/response-and-resilience-in-operational-risk-events)
+
+This paper analyzes direct losses from operational-risk failures and subsequent losses in share price which are typically many times greater. 
+
+---
+
+### Determinants of the Incidence of U.S. Mortgage Loan Modifications
+**Journal of Banking & Finance**  
+June 15, 2013  
+
+[Read the full publication ›](http://www.sciencedirect.com/science/article/pii/S0378426613002525)
+
+This paper combines data on the performance of mortgage loans with detailed borrower, neighborhood, and property characteristics to examine the factors that determine the outcomes of seriously delinquent loans. We employ multinomial logit models in a hazard framework to explain how loan, borrower, property, servicer, and neighborhood characteristics affect which of the following four outcomes results:
+
+1. The borrower cures the delinquency.
+2. The borrower and lender agree to modify the loan.
+3. The borrower suffers a liquidation (short sale, deed in lieu, foreclosure auction, or REO).
+4. The loan remains delinquent.
+
+In particular, we focus on mortgage modification. We find that the outcomes of delinquent loans are significantly related to:
+- Current LTV,
+- FICO scores,
+- Especially risky loan characteristics,
+- The servicer of the loan,
+- Neighborhood housing price appreciation,
+- Whether the borrower received foreclosure counseling.
+
+---
+
+## Working Papers
+
+### Do Nighttime Train Horns Hurt More Than They Help?
+**White Paper** 
+March 2025 
+
+[Read the full paper ›](https://github.com/sdmurff/fra-train-horn/blob/main/Do-nighttime-train-horns-hurt-more-than-they-help-.pdf)
+
+In 1991, the Federal Railroad Administration issued Emergency Order No. 15 preempting state laws that had allowed for local train horn bans—and requiring train horns to be sounded at crossings 24/7. While this was justified on safety grounds, the adverse public health impacts of noise exposure—particularly sleep disruption and related health outcomes—were not considered. 
+
+This paper quantifies the cost-benefit trade-off of nighttime train horn usage by comparing safety benefits from accident prevention against health costs measured in Disability-Adjusted Life Years (DALYs). Drawing on FRA reports, U.S. Census data, and Global Burden of Disease estimates, the analysis shows:
+
+- DALYs lost to noise-induced sleep disturbances likely exceed those saved from reduced accidents by 1.5 to 3 times or more.
+- A natural experiment in Utah (where Quiet Zones were suspended) shows similar results
+
+These results suggest that current train horn policy may inadvertently harm public health and that further research and policy reevaluation are warranted.

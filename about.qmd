@@ -1,0 +1,26 @@
+---
+format:
+  html:
+    toc: false
+page-layout: full
+---
+
+# About
+
+I’m Scott Murff, a professor, researcher, and entrepreneur focused on strategy, artificial intelligence, and decision-making. I currently teach in the Strategic Management program at Brigham Young University’s Marriott School of Business, where I help students build the skills and mindsets to thrive and deliver real value to organizations right out of school.
+
+Before joining BYU, I spent over 15 years working at the intersection of data science, product management, and consulting. My experience includes:
+
+- **McKinsey & Company:** As a Principal Product Manager and Engagement Manager, I helped clients across industries drive performance transformations, build analytics capabilities, and design AI-powered solutions. I also led the development of a performance management platform and helped McKinsey productize it's company transformation approach that has had $100B of CFO-certified impact across client engagements.
+- **Zions Bancorporation:** I led teams developing quantitative models to forecast multi-billion-dollar balance sheets and income statements, and pioneered the use of open-source tools within regulated banking environments.
+- **U.S. Office of the Comptroller of the Currency:** As a Research Analyst, I co-authored peer-reviewed research on loan modifications and conducted statistical analysis of massive financial datasets.
+
+I hold a master’s degree in Management Science & Engineering from Stanford University and a bachelor’s degree in Economics from Brigham Young University.
+
+My work today centers on:
+
+- **AI Enabled Product Management:** Exploring how artificial intelligence can accelerate innovation
+- **Strategy and Management Consulting:** Helping students build skills for structured problem-solving, rigorous analysis, and clear communication.
+- **Teaching and Mentorship:** Coaching students as they develop confidence, technical skills, and purpose in their careers.
+
+Outside the classroom, I conduct research and build products that I hope can improve people's lives mentally, physically, and spiritually.

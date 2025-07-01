@@ -1,0 +1,32 @@
+  project:
+    type: website
+  
+  website:
+    favicon: images/favicon.svg
+    title: "Scott Murff"
+    navbar:
+      left:
+        - text: "Teaching"
+          href: teaching.qmd
+        - text: "Research"
+          href: research.qmd
+        - text: "Students"
+          href: students.qmd
+      right: 
+        - text: "About"
+          href: about.qmd
+        - text: "Ventures"
+          href: ventures.qmd
+        - text: "Essays"
+          href: essays/index.qmd
+
+    page-footer:
+      center: 
+        - text: "© 2025 Scott Murff. All rights reserved."
+  
+  format:
+    html:
+      toc: true
+      toc-location: left
+      theme: flatly
+      css: styles.css
