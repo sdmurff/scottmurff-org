@@ -33,4 +33,4 @@ I’m exploring several other ideas that I think should exist.
 - **Realistic Bike Trailers for Kids**  
   Bike trailers that look like real, miniature cars to motivate young children to enjoy riding along behind their parents.
 
-If you are interested in helping build these, please either take the idea and make it happen or [get in touch](mailto:scott.murff@byu.edu) and let's work together to build it.
+If you are interested in helping build these, please either take the idea and make it happen or [get in touch]() and let's work together to build it.

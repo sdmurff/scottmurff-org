@@ -1,0 +1,57 @@
+/* Center navbar menu items */
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Center the brand link in the navbar */
+.navbar .navbar-brand {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: white;
+}
+
+/* Import Inter for headings */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Base body text uses Georgia */
+body {
+  font-family: Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #222;
+}
+
+/* Headings use Inter */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #111;
+}
+
+/* Links with subtle underline */
+a {
+  text-decoration: underline;
+  text-decoration-color: #ddd;
+  color: #222;
+}
+
+a:hover {
+  text-decoration-color: #999;
+}
+
+.navbar, .navbar-brand, .navbar-nav .nav-link {
+  font-family: 'Inter', sans-serif; /* or your preferred header font */
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.1rem; }
+
+
