@@ -7,11 +7,8 @@ format:
 ---
 
 <div style="text-align: left;">
-  <h1>Hi, I’m Scott 👋</h1>
+  <h1>Hi, I’m Scott</h1>
 </div>
-
-
-
 
 ::: {style="display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap; margin: 2rem 0;"}
 
@@ -27,10 +24,7 @@ format:
   </p>
 </div>
 
-
-
 :::
-
 
 ## What I Do
 
@@ -83,7 +77,6 @@ format:
 - ✍ Developed two new AI courses for product managers: [Review my courses](teaching.qmd).
 - 🎤 Spoke at a hedge fund company retreat on decision and outcome quality.
 - 🚀 Launched [The National Quiet Zone Association](https://quietzones.us) to help communities reduce train noise.
-
 
 ## Get in Touch
 

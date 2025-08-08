@@ -3,7 +3,7 @@ format:
   html:
     toc: false
 page-layout: full
----
+--- 
 
 # About
 
@@ -15,7 +15,7 @@ Before joining BYU, I spent over 15 years working at the intersection of data sc
 - **Zions Bancorporation:** I led teams developing quantitative models to forecast multi-billion-dollar balance sheets and income statements, and pioneered the use of open-source tools within regulated banking environments.
 - **U.S. Office of the Comptroller of the Currency:** As a Research Analyst, I co-authored peer-reviewed research on loan modifications and conducted statistical analysis of massive financial datasets.
 
-I hold a master’s degree in Management Science & Engineering from Stanford University and a bachelor’s degree in Economics from Brigham Young University.
+I hold a master’s degree in Management Science & Engineering from Stanford University and a bachelor’s degree in Economics, with a math minor, from Brigham Young University.
 
 My work today centers on:
 
