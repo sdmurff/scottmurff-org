@@ -33,7 +33,7 @@ format:
 <div class="col-md-6 col-lg-3">
 <div class="card h-100">
 <div class="card-body">
-<h5 class="card-title">🎓 Teaching</h5>
+<h5 class="card-title"><i class="bi bi-book"></i> Teaching</h5>
 <p class="card-text">Courses on AI, product management, and management consulting</p>
 <a href="teaching.html" class="btn btn-primary">Explore Teaching</a>
 </div>
@@ -43,7 +43,7 @@ format:
 <div class="col-md-6 col-lg-3">
 <div class="card h-100">
 <div class="card-body">
-<h5 class="card-title">📚 Research</h5>
+<h5 class="card-title"><i class="bi bi-journal-text"></i> Research</h5>
 <p class="card-text">Published research and working papers</p>
 <a href="research.html" class="btn btn-primary">View Research</a>
 </div>
@@ -53,7 +53,7 @@ format:
 <div class="col-md-6 col-lg-3">
 <div class="card h-100">
 <div class="card-body">
-<h5 class="card-title">✍️ Writing</h5>
+<h5 class="card-title"><i class="bi bi-pencil-square"></i> Writing</h5>
 <p class="card-text">Essays and models spanning decision-making, faith, and purpose.</p>
 <a href="essays/index.html" class="btn btn-primary">Read Essays</a>
 </div>
@@ -63,7 +63,7 @@ format:
 <div class="col-md-6 col-lg-3">
 <div class="card h-100">
 <div class="card-body">
-<h5 class="card-title">💡 Ventures</h5>
+<h5 class="card-title"><i class="bi bi-lightbulb"></i> Ventures</h5>
 <p class="card-text">Commercial ventures and ideas.</p>
 <a href="ventures.html" class="btn btn-primary">Explore Ventures</a>
 </div>
@@ -74,13 +74,13 @@ format:
 
 ## Recent Highlights
 
-- ✍ Developed two new AI courses for product managers: [Review my courses](teaching.qmd).
-- 🎤 Spoke at a hedge fund company retreat on decision and outcome quality.
-- 🚀 Launched [The National Quiet Zone Association](https://quietzones.us) to help communities reduce train noise.
+- <i class="bi bi-pencil"></i> Developed two new AI courses for product managers: [Review my courses](teaching.qmd).
+- <i class="bi bi-mic"></i> Spoke at a hedge fund company retreat on decision and outcome quality.
+- <i class="bi bi-rocket-takeoff"></i> Launched [The National Quiet Zone Association](https://quietzones.us) to help communities reduce train noise.
 
 ## Get in Touch
 
-If you’d like to collaborate, learn more about my work, or invite me to speak, [contact me]().
+If you’d like to collaborate, learn more about my work, or invite me to speak, [contact me](https://www.linkedin.com/in/scottdmurff/).
 
 
 
