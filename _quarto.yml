@@ -15,13 +15,13 @@
           href: research.qmd
         - text: "Students"
           href: students.qmd
-      right: 
-        - text: "About"
-          href: about.qmd
+      right:
         - text: "Ventures"
           href: ventures.qmd
         - text: "Essays"
           href: essays/index.qmd
+        - text: "About"
+          href: about.qmd
 
     page-footer:
       center: |
