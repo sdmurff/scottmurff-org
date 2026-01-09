@@ -7,7 +7,16 @@ page-layout: full
 
 # Ventures
 
-In addition to teaching and research, I help BYU students launch new ventures that I hope will improve lives . Below are a few of the projects I’m currently working on.
+In addition to teaching and research, I have launched several ventures that I hope will improve lives. Below are a few of the projects I’m currently working on.
+
+## French 80/20
+
+[French 80/20](https://french-80-20.vercel.app/) is the smart way to learn French. The method applies the Pareto Principle: 20% of words unlock the 80% of real communication. Learners acquire vocabulary through realistic dialogues, not word lists. Smart selection ensurs every word is high impact. Repeated exposure builds recognition, speaking practice builds pronunciation confidence, and real-time feedback catches mistakes and incentivizes growth.
+
+<div style="display: flex; gap: 12px; align-items: center; margin-top: 1rem;">
+<a href="https://french-80-20.vercel.app/" style="display: inline-flex; align-items: center; justify-content: center; height: 40px; padding: 0 16px; background-color: #2c3e50; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500;">Try Free on Web</a>
+<a href="https://apps.apple.com/app/french-80-20/id6757204905"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" style="height: 40px;"></a>
+</div>
 
 ## National Quiet Zone Association
 

@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 format:
   html:
-    toc: true
+    toc: false
 ---
 
 <div style="text-align: left;">
@@ -16,9 +16,9 @@ format:
 
 <div style="flex: 1;">
   <p>
-    I’m a professor, researcher, and entrepreneur focused on strategy, AI, and decision-making. This site is the hub for my teaching, writing, and ventures.
+    I’m a professor, consultant, and product builder with expertise in strategy, product management, and AI. This site is the hub for my teaching and other projects.
     
-    I [previously worked](https://www.linkedin.com/in/scottdmurff/) as a professional data scientist, management consultant, and product manager.
+    I [previously worked](https://www.linkedin.com/in/scottdmurff/) as a professional data scientist, McKinsey consultant, and product manager.
     
     I currently serve as the Program Director for the [Strategic Management major](https://byu-strategy.github.io/program-guide/) at Brigham Young University's Marriott School of Business.
   </p>
@@ -29,13 +29,23 @@ format:
 ## What I Do
 
 <div class="row g-4">
-  
+
 <div class="col-md-6 col-lg-3">
 <div class="card h-100">
 <div class="card-body">
 <h5 class="card-title"><i class="bi bi-book"></i> Teaching</h5>
 <p class="card-text">Courses on AI, product management, and management consulting</p>
 <a href="teaching.html" class="btn btn-primary">Explore Teaching</a>
+</div>
+</div>
+</div>
+
+<div class="col-md-6 col-lg-3">
+<div class="card h-100">
+<div class="card-body">
+<h5 class="card-title"><i class="bi bi-lightbulb"></i> Ventures</h5>
+<p class="card-text">Commercial ventures and ideas.</p>
+<a href="ventures.html" class="btn btn-primary">Explore Ventures</a>
 </div>
 </div>
 </div>
@@ -53,28 +63,19 @@ format:
 <div class="col-md-6 col-lg-3">
 <div class="card h-100">
 <div class="card-body">
-<h5 class="card-title"><i class="bi bi-pencil-square"></i> Writing</h5>
+<h5 class="card-title"><i class="bi bi-pencil-square"></i> Essays</h5>
 <p class="card-text">Essays and models spanning decision-making, faith, and purpose.</p>
 <a href="essays/index.html" class="btn btn-primary">Read Essays</a>
 </div>
 </div>
 </div>
 
-<div class="col-md-6 col-lg-3">
-<div class="card h-100">
-<div class="card-body">
-<h5 class="card-title"><i class="bi bi-lightbulb"></i> Ventures</h5>
-<p class="card-text">Commercial ventures and ideas.</p>
-<a href="ventures.html" class="btn btn-primary">Explore Ventures</a>
-</div>
-</div>  
-</div>
-
 </div>
 
 ## Recent Highlights
 
-- <i class="bi bi-pencil"></i> Developed two new AI courses for product managers: [Review my courses](teaching.qmd).
+- <i class="bi bi-phone"></i> Launched [French 80/20](https://apps.apple.com/app/french-80-20/id6757204905) on the App Store, a smarter way to learn French using the Pareto Principle.
+- <i class="bi bi-pencil"></i> Developed and delivered an AI PM Bootcamp to 80 professionals [Review the course notes](teaching.qmd).
 - <i class="bi bi-mic"></i> Spoke at a hedge fund company retreat on decision and outcome quality.
 - <i class="bi bi-rocket-takeoff"></i> Launched [The National Quiet Zone Association](https://quietzones.us) to help communities reduce train noise.
 

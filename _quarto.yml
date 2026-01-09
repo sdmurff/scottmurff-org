@@ -25,11 +25,12 @@
 
     page-footer:
       center: 
-        - text: "© 2025 Scott Murff. All rights reserved."
+        - text: "© 2026 Scott Murff. All rights reserved."
   
   format:
     html:
       toc: true
       toc-location: left
-      theme: flatly
-      css: styles.css
+      theme:
+        - flatly
+        - styles.scss

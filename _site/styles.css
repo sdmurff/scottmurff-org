@@ -54,4 +54,34 @@ h1 { font-size: 1.8rem; }
 h2 { font-size: 1.4rem; }
 h3 { font-size: 1.1rem; }
 
+/* Category cloud styling */
+.quarto-category {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 0.95rem;
+  padding: 0.35rem 0.75rem;
+  margin: 0.25rem;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  text-decoration: none;
+  color: #495057;
+  transition: all 0.2s ease;
+}
+
+.quarto-category:hover {
+  background-color: #e9ecef;
+  border-color: #dee2e6;
+  text-decoration: none;
+  color: #212529;
+}
+
+/* Categories heading */
+.listing-category .category-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+
 

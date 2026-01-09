@@ -1,20 +1,41 @@
-# Teaching Overview
+# Teaching
 
 I teach courses designed to help students develop practical skills and frameworks at the intersection of strategy, artificial intelligence, and product management. My teaching philosophy emphasizes hands-on experience.
 
-Below are my current courses and resources:
+---
 
-## STRAT 490R: Understanding AI: From Foundations to Strategy
-[Course Website](https://byu-strategy.github.io/understanding-ai/)
+# College Courses
 
-This course guides students through understanding how AI works from first principles. We explore foundational topics such as machine learning, large language models, and prompt engineering, while also addressing ethical and organizational considerations for adopting AI in practice.
-
-## STRAT 490R: Strategy & Prototyping: Creating Digital Products
+## Creating Digital Products with AI
 [Course Website](https://byu-strategy.github.io/strategy-prototyping/)
 
 Strategy & Prototyping focuses on helping students apply lean product development principles to design, build, and test digital solutions. The course combines strategic thinking, rapid experimentation, and AI-powered prototyping to accelerate innovation.
 
-## STRAT 325: Introduction to Management Consulting
+## Introduction to Management Consulting
 [Course Website](https://byu-strategy.github.io/management-consulting/)
 
 This course provides an introduction to structured problem solving, client engagement, and the core toolkit of management consulting. Students learn how to frame problems, conduct rigorous analysis, and deliver clear, compelling recommendations.
+
+## Understanding AI: From Foundations to Strategy
+[Course Website](https://byu-strategy.github.io/understanding-ai/) (Under Development)
+
+This course guides students through understanding how AI works from first principles. We explore foundational topics such as machine learning, large language models, and prompt engineering, while also addressing ethical and organizational considerations for adopting AI in practice.
+
+## Associate Product Manager Lab
+Coming Soon
+
+---
+
+# Corporate Bootcamps
+
+I offer intensive 4-hour workshops designed for professionals and organizations looking to rapidly upskill in AI-powered product development and structured problem-solving.
+
+## AI PM Bootcamp
+[Workshop Website](https://byu-strategy.github.io/ai-pm-bootcamp/)
+
+This workshop defines the emergence of the "full-stack product builder"—a professional capable of managing strategy, design, engineering, go-to-market, and data science with the help of AI tools. Participants learn vibe coding, spec-driven development, GitHub workflows, and how to deploy live applications using Claude Code, Supabase, and Vercel.
+
+## The Consultant's OS
+Coming Soon
+
+The Consultant's OS is the behavioral operating system that drives performance at top consulting firms. It describes a complete way of thinking, working, and communicating that you can apply throughout your career. This 4-hour workshop teaches the core consultant's toolkit to any professional looking to level up. Topics include: MECE logic for breaking down complex problems, the Pyramid Principle for executive communication, and practical frameworks for driving outcomes with clarity and confidence. The workshop also shows how to amplify each of these skills with AI.

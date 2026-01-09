@@ -1,0 +1,38 @@
+---
+title: "Decision Quality: A Practical Model for Better Outcomes"
+description: "A framework for decision quality built around three core components: information quality, reasoning quality, and execution quality."
+date: "2024-11-12"
+categories: [strategy, decision-making, models]
+draft: false
+---
+
+High-quality decisions are the foundation of effective strategy and good stewardship. I've developed a framework for decision quality built around three core components:
+
+## The Three Components
+
+1. **Information Quality**
+   Do you have the right facts? High-quality information means you have access to or knowledge of information that is relevant, timely, and correct.
+
+2. **Reasoning Quality**
+   Are you making sense of the information logically to formulate your plan of action? This requires clear mental models, structured problem solving, and emotional regulation.
+
+3. **Execution Quality**
+   Are you executing with a high degree of fidelity? Even the best plans fail without disciplined follow-through. Execution quality is about ensuring that decisions translate into coordinated, consistent action.
+
+## The Framework
+
+This can be visualized conceptually as a simple equation:
+
+$$
+\text{Outcome Quality} = f(\text{Information Quality}, \text{Reasoning Quality}, \text{Execution Quality})
+$$
+
+Each component is necessary but not sufficient on its own—you need all three. For example:
+
+- Great reasoning applied to poor information yields confident mistakes.
+- Great information and great reasoning without execution produces no impact.
+- Strong execution of a poor decision leads to failure faster.
+
+This model draws inspiration from both classic strategy frameworks and contemporary research on decision-making under uncertainty.
+
+**Full article coming soon.**
