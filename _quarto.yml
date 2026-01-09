@@ -24,8 +24,11 @@
           href: essays/index.qmd
 
     page-footer:
-      center: 
-        - text: "© 2026 Scott Murff. All rights reserved."
+      center: |
+        <a href="https://www.linkedin.com/in/scottdmurff/" target="_blank"><i class="bi bi-linkedin"></i></a>&nbsp;&nbsp;
+        <a href="https://github.com/sdmurff" target="_blank"><i class="bi bi-github"></i></a>
+        <br>
+        © 2026 Scott Murff
   
   format:
     html:

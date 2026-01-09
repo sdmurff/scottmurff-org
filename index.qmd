@@ -26,51 +26,47 @@ format:
 
 :::
 
-## What I Do
+## My Projects
 
-<div class="row g-4">
+::: {.grid}
 
-<div class="col-md-6 col-lg-3">
-<div class="card h-100">
-<div class="card-body">
-<h5 class="card-title"><i class="bi bi-book"></i> Teaching</h5>
-<p class="card-text">Courses on AI, product management, and management consulting</p>
-<a href="teaching.html" class="btn btn-primary">Explore Teaching</a>
+::: {.g-col-6 .g-col-md-3}
+<a href="teaching.html" class="card h-100 text-decoration-none" style="transition: transform 0.2s, box-shadow 0.2s;">
+<div class="card-body text-center py-4">
+<i class="bi bi-book" style="font-size: 2.5rem; color: var(--bs-primary);"></i>
+<h5 class="card-title mt-2 mb-0">Teaching</h5>
 </div>
-</div>
-</div>
+</a>
+:::
 
-<div class="col-md-6 col-lg-3">
-<div class="card h-100">
-<div class="card-body">
-<h5 class="card-title"><i class="bi bi-lightbulb"></i> Ventures</h5>
-<p class="card-text">Commercial ventures and ideas.</p>
-<a href="ventures.html" class="btn btn-primary">Explore Ventures</a>
+::: {.g-col-6 .g-col-md-3}
+<a href="ventures.html" class="card h-100 text-decoration-none" style="transition: transform 0.2s, box-shadow 0.2s;">
+<div class="card-body text-center py-4">
+<i class="bi bi-lightbulb" style="font-size: 2.5rem; color: var(--bs-primary);"></i>
+<h5 class="card-title mt-2 mb-0">Ventures</h5>
 </div>
-</div>
-</div>
+</a>
+:::
 
-<div class="col-md-6 col-lg-3">
-<div class="card h-100">
-<div class="card-body">
-<h5 class="card-title"><i class="bi bi-journal-text"></i> Research</h5>
-<p class="card-text">Published research and working papers</p>
-<a href="research.html" class="btn btn-primary">View Research</a>
+::: {.g-col-6 .g-col-md-3}
+<a href="research.html" class="card h-100 text-decoration-none" style="transition: transform 0.2s, box-shadow 0.2s;">
+<div class="card-body text-center py-4">
+<i class="bi bi-journal-text" style="font-size: 2.5rem; color: var(--bs-primary);"></i>
+<h5 class="card-title mt-2 mb-0">Research</h5>
 </div>
-</div>
-</div>
+</a>
+:::
 
-<div class="col-md-6 col-lg-3">
-<div class="card h-100">
-<div class="card-body">
-<h5 class="card-title"><i class="bi bi-pencil-square"></i> Essays</h5>
-<p class="card-text">Essays and models spanning decision-making, faith, and purpose.</p>
-<a href="essays/index.html" class="btn btn-primary">Read Essays</a>
+::: {.g-col-6 .g-col-md-3}
+<a href="essays/index.html" class="card h-100 text-decoration-none" style="transition: transform 0.2s, box-shadow 0.2s;">
+<div class="card-body text-center py-4">
+<i class="bi bi-pencil-square" style="font-size: 2.5rem; color: var(--bs-primary);"></i>
+<h5 class="card-title mt-2 mb-0">Essays</h5>
 </div>
-</div>
-</div>
+</a>
+:::
 
-</div>
+:::
 
 ## Recent Highlights
 
