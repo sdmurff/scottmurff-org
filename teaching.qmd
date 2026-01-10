@@ -17,6 +17,7 @@ This course immerses students in AI-enabled product management and development. 
 This course provides an introduction to structured problem solving, client engagement, and the core toolkit of management consulting. Students learn how to frame problems, conduct rigorous analysis, and deliver clear, compelling recommendations that create positive impact for organizations.
 
 ## Associate Product Manager Lab
+[Course Website](https://byu-strategy.github.io/apm-lab/)
 
 The Associate Product Manager (APM) Lab is an apprenticeship-style internship where students work on real product initiatives at partner companies while earning academic credit. Over a 4-month term, students contribute to product discovery, feature definition, prototyping, and analytics support. The program is designed for high-performing students with strong foundations in product management, data analysis, and AI-native workflows.
 
