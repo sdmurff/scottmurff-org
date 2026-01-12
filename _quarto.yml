@@ -5,7 +5,7 @@
       - images
   
   website:
-    favicon: images/favicon.svg
+    favicon: images/favicon.png
     title: "Scott Murff"
     navbar:
       left:

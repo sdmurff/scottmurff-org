@@ -18,7 +18,7 @@ format:
   <p>
     I’m a professor, consultant, and product builder with expertise in strategy, product management, and AI. This site is the hub for my teaching and other projects.
     
-    I [previously worked](https://www.linkedin.com/in/scottdmurff/) as a professional data scientist, McKinsey consultant, and product manager.
+    I [previously worked](https://www.linkedin.com/in/scottdmurff/) as a professional data scientist, McKinsey consultant, and principal product manager.
     
     I currently serve as the Program Director for the [Strategic Management major](https://byu-strategy.github.io/program-guide/) at Brigham Young University's Marriott School of Business.
   </p>
