@@ -59,7 +59,7 @@ I offer intensive 4-hour workshops designed for professionals and organizations 
 This workshop is a compression of my Product Management with AI course. It introduces the "full-stack product builder," a professional who can handle strategy, design, engineering, go-to-market, and data science with the help of AI tools. Participants learn vibe coding, spec-driven development, GitHub workflows, and how to deploy live applications using Claude Code, Supabase, and Vercel.
 
 ## The Consultant Diamond
-[Course Website](https://byu-strategy.github.io/management-consulting/)
+[Full Course: Introduction to Management Consulting](https://byu-strategy.github.io/management-consulting/)
 
 This workshop is a distillation of my Introduction to Management Consulting course. It is organized around the Consultant Diamond: the four things the people you work with can see and rate, which are Judgment, Ownership, Communication, and Collaboration. Participants learn the toolkit under each one, including MECE logic and hypothesis-driven problem solving, the Pyramid Principle for executive communication, owning a workstream end to end, and building trust with senior stakeholders. The workshop also shows how to amplify each of these skills with AI.
 
