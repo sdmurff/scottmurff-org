@@ -45,3 +45,12 @@ This workshop defines the emergence of the "full-stack product builder"—a prof
 ## The Consultant's OS
 
 The Consultant's OS is the behavioral operating system that drives performance at top consulting firms. It describes a complete way of thinking, working, and communicating that you can apply throughout your career. This 4-hour workshop teaches the core consultant's toolkit to any professional looking to level up. Topics include: MECE logic for breaking down complex problems, the Pyramid Principle for executive communication, and practical frameworks for driving outcomes with clarity and confidence. The workshop also shows how to amplify each of these skills with AI.
+
+---
+
+# Open-Source Resources
+
+## Agent Team Kit
+[GitHub Repository](https://github.com/ai-foundry-byu/agent-team-kit)
+
+Tooling and working agreements for a two-person AI-native team, or a solo developer running many Claude Code agents at once. It handles the collisions parallel agents run into (dev-server ports, the shared database, and the git working tree) and supports two ways of working: every agent on one main branch, or each agent in its own git worktree. AI Foundry teams use it to build client projects.
