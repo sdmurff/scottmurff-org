@@ -54,13 +54,14 @@ This course immerses students in AI-enabled product management and development. 
 I offer intensive 4-hour workshops designed for professionals and organizations looking to rapidly upskill in AI-powered product development and structured problem-solving.
 
 ## AI PM Bootcamp
-[Workshop Website](https://byu-strategy.github.io/ai-pm-bootcamp/)
+[Workshop Website](https://byu-strategy.github.io/ai-pm-bootcamp/) · [Full Course: Product Management with AI](https://byu-strategy.github.io/product-management/)
 
-This workshop defines the emergence of the "full-stack product builder"—a professional capable of managing strategy, design, engineering, go-to-market, and data science with the help of AI tools. Participants learn vibe coding, spec-driven development, GitHub workflows, and how to deploy live applications using Claude Code, Supabase, and Vercel.
+This workshop is a compression of my Product Management with AI course. It introduces the "full-stack product builder," a professional who can handle strategy, design, engineering, go-to-market, and data science with the help of AI tools. Participants learn vibe coding, spec-driven development, GitHub workflows, and how to deploy live applications using Claude Code, Supabase, and Vercel.
 
-## The Consultant's OS
+## The Consultant Diamond
+[Course Website](https://byu-strategy.github.io/management-consulting/)
 
-The Consultant's OS is the behavioral operating system that drives performance at top consulting firms. It describes a complete way of thinking, working, and communicating that you can apply throughout your career. This 4-hour workshop teaches the core consultant's toolkit to any professional looking to level up. Topics include: MECE logic for breaking down complex problems, the Pyramid Principle for executive communication, and practical frameworks for driving outcomes with clarity and confidence. The workshop also shows how to amplify each of these skills with AI.
+This workshop is a distillation of my Introduction to Management Consulting course. It is organized around the Consultant Diamond: the four things the people you work with can see and rate, which are Judgment, Ownership, Communication, and Collaboration. Participants learn the toolkit under each one, including MECE logic and hypothesis-driven problem solving, the Pyramid Principle for executive communication, owning a workstream end to end, and building trust with senior stakeholders. The workshop also shows how to amplify each of these skills with AI.
 
 ---
 
