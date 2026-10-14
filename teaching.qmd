@@ -26,11 +26,6 @@ This course provides an introduction to structured problem solving, client engag
 
 The Associate Product Manager (APM) Lab is an apprenticeship-style internship where students work on real product initiatives at partner companies while earning academic credit. Over a 4-month term, students contribute to product discovery, feature definition, prototyping, and analytics support. The program is designed for high-performing students with strong foundations in product management, data analysis, and AI-native workflows.
 
-## Understanding AI: From Foundations to Strategy
-[Course Website](https://byu-strategy.github.io/understanding-ai/) (Under Development)
-
-This course guides students through understanding how AI works from first principles. We explore foundational topics such as machine learning, large language models, and prompt engineering, while also addressing ethical and organizational considerations for adopting AI in practice.
-
 ---
 
 # Corporate Bootcamps
