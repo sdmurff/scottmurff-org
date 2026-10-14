@@ -6,30 +6,46 @@ I teach courses designed to help students develop practical skills and framework
 
 # College Courses
 
-## Product Management with AI
+## Current
+
+### Product Management with AI
 [Course Website](https://byu-strategy.github.io/product-management/)
 
 Students become full-stack AI product builders. Each student picks a problem worth solving, builds a real digital product for it, puts it in front of real users, and ships it, using AI coding agents as the primary tool throughout. The course is organized around six builder skills: agentic workflow, discovery, design, application architecture, AI systems, and launch and learn. Students build with Claude Code, GitHub, Next.js, Supabase, and Vercel, and no prior experience with any of them is required.
 
-## AI Foundry
+### AI Foundry
 [Course Website](https://byu-strategy.github.io/ai-foundry/) · [AI Foundry Website](https://aifoundry.byu.edu)
 
 The [AI Foundry](https://aifoundry.byu.edu) is an AI-native product studio and consultancy, and an experiential learning program of the BYU Marriott School of Business. MBA and undergraduate students scope real projects and ship production AI systems for paying clients. I serve as its faculty advisor.
 
-## Introduction to Management Consulting
+### Introduction to Management Consulting
 [Course Website](https://byu-strategy.github.io/management-consulting/)
 
 This course provides an introduction to structured problem solving, client engagement, and the core toolkit of management consulting. Students learn how to frame problems, conduct rigorous analysis, and deliver clear, compelling recommendations that create positive impact for organizations.
 
-## Associate Product Manager Lab
+### Associate Product Manager Lab
 [Course Website](https://byu-strategy.github.io/apm-lab/)
 
 The Associate Product Manager (APM) Lab is an apprenticeship-style internship where students work on real product initiatives at partner companies while earning academic credit. Over a 4-month term, students contribute to product discovery, feature definition, prototyping, and analytics support. The program is designed for high-performing students with strong foundations in product management, data analysis, and AI-native workflows.
 
-## Strategy Leadership Lab
+### Strategy Leadership Lab
 [Course Website](https://byu-strategy.github.io/strategy-leadership-lab/)
 
 Strategy Leadership Lab is a weekly working session for the roughly 30 students who lead the BYU Strategy Program and the four career clubs it administers. Each session combines leadership development (guest speakers, case discussions, and skill building on influence, conflict, and managing up) with a project roundtable where club and program leaders coordinate on shared priorities and give each other feedback. Enrollment is open to program and club leaders regardless of major.
+
+## Under Development
+
+### Understanding AI: From Foundations to Strategy
+[Course Website](https://byu-strategy.github.io/understanding-ai/)
+
+This course guides students through understanding how AI works from first principles. We explore foundational topics such as machine learning, large language models, and prompt engineering, while also addressing ethical and organizational considerations for adopting AI in practice.
+
+## Past
+
+### Creating Digital Products with AI
+[Course Website](https://byu-strategy.github.io/strategy-prototyping/)
+
+This course immerses students in AI-enabled product management and development. Students combine strategic frameworks with hands-on technical skills to envision, prototype, and launch AI-enhanced digital products. The curriculum covers how large language models work, product strategy development, and ethical considerations for building technology. Students work with industry tools like GitHub, Jira, and Figma alongside AI tools like Claude Code to build products that deliver enduring value to target customers.
 
 ---
 
