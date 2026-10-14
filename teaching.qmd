@@ -6,10 +6,15 @@ I teach courses designed to help students develop practical skills and framework
 
 # College Courses
 
-## Creating Digital Products with AI
-[Course Website](https://byu-strategy.github.io/strategy-prototyping/)
+## Product Management with AI
+[Course Website](https://byu-strategy.github.io/product-management/)
 
-This course immerses students in AI-enabled product management and development. Students combine strategic frameworks with hands-on technical skills to envision, prototype, and launch AI-enhanced digital products. The curriculum covers how large language models work, product strategy development, and ethical considerations for building technology. Students work with industry tools like GitHub, Jira, and Figma alongside AI tools like Claude Code to build products that deliver enduring value to target customers.
+This course replaces Creating Digital Products with AI. It immerses students in AI-enabled product management and development. Students combine strategic frameworks with hands-on technical skills to envision, prototype, and launch AI-enhanced digital products. The curriculum covers how large language models work, product strategy development, and ethical considerations for building technology. Students work with industry tools like GitHub, Jira, and Figma alongside AI tools like Claude Code to build products that deliver enduring value to target customers.
+
+## AI Foundry
+[Course Website](https://byu-strategy.github.io/ai-foundry/) · [AI Foundry Website](https://aifoundry.byu.edu)
+
+The [AI Foundry](https://aifoundry.byu.edu) is an AI-native product studio and consultancy, and an experiential learning program of the BYU Marriott School of Business. MBA and undergraduate students scope real projects and ship production AI systems for paying clients. I serve as its faculty advisor.
 
 ## Introduction to Management Consulting
 [Course Website](https://byu-strategy.github.io/management-consulting/)

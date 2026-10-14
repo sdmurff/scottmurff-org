@@ -20,7 +20,7 @@ format:
     
     I [previously worked](https://www.linkedin.com/in/scottdmurff/) as a professional data scientist, McKinsey consultant, and principal product manager.
     
-    I currently serve as the Program Director for the [Strategic Management major](https://byu-strategy.github.io/program-guide/) at Brigham Young University's Marriott School of Business.
+    I currently serve as the Program Director for the [Strategic Management major](https://byu-strategy.github.io/program-guide/) at Brigham Young University's Marriott School of Business, and as faculty advisor to the [AI Foundry](https://aifoundry.byu.edu), where students build and ship production AI systems for real clients.
   </p>
 </div>
 
@@ -70,6 +70,7 @@ format:
 
 ## Recent Highlights
 
+- <i class="bi bi-cpu"></i> Advising the [AI Foundry](https://aifoundry.byu.edu), BYU Marriott's AI-native product studio, where students ship production systems for real clients.
 - <i class="bi bi-phone"></i> Launched [French 80/20](https://apps.apple.com/app/french-80-20/id6757204905) on the App Store, a smarter way to learn French using the Pareto Principle.
 - <i class="bi bi-pencil"></i> Developed and delivered an AI PM Bootcamp to 80 professionals [Review the course notes](teaching.qmd).
 - <i class="bi bi-mic"></i> Spoke at a hedge fund company retreat on decision and outcome quality.
