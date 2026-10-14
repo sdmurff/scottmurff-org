@@ -26,6 +26,11 @@ This course provides an introduction to structured problem solving, client engag
 
 The Associate Product Manager (APM) Lab is an apprenticeship-style internship where students work on real product initiatives at partner companies while earning academic credit. Over a 4-month term, students contribute to product discovery, feature definition, prototyping, and analytics support. The program is designed for high-performing students with strong foundations in product management, data analysis, and AI-native workflows.
 
+## Strategy Leadership Lab
+[Course Website](https://byu-strategy.github.io/strategy-leadership-lab/)
+
+Strategy Leadership Lab is a weekly working session for the roughly 30 students who lead the BYU Strategy Program and the four career clubs it administers. Each session combines leadership development (guest speakers, case discussions, and skill building on influence, conflict, and managing up) with a project roundtable where club and program leaders coordinate on shared priorities and give each other feedback. Enrollment is open to program and club leaders regardless of major.
+
 ---
 
 # Corporate Bootcamps
