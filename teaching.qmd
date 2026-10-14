@@ -9,7 +9,7 @@ I teach courses designed to help students develop practical skills and framework
 ## Product Management with AI
 [Course Website](https://byu-strategy.github.io/product-management/)
 
-This course replaces Creating Digital Products with AI. It immerses students in AI-enabled product management and development. Students combine strategic frameworks with hands-on technical skills to envision, prototype, and launch AI-enhanced digital products. The curriculum covers how large language models work, product strategy development, and ethical considerations for building technology. Students work with industry tools like GitHub, Jira, and Figma alongside AI tools like Claude Code to build products that deliver enduring value to target customers.
+This course immerses students in AI-enabled product management and development. Students combine strategic frameworks with hands-on technical skills to envision, prototype, and launch AI-enhanced digital products. The curriculum covers how large language models work, product strategy development, and ethical considerations for building technology. Students work with industry tools like GitHub, Jira, and Figma alongside AI tools like Claude Code to build products that deliver enduring value to target customers.
 
 ## AI Foundry
 [Course Website](https://byu-strategy.github.io/ai-foundry/) · [AI Foundry Website](https://aifoundry.byu.edu)
