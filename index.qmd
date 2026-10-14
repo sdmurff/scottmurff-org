@@ -73,7 +73,6 @@ format:
 - <i class="bi bi-phone"></i> Launched [French 80/20](https://apps.apple.com/app/french-80-20/id6757204905) on the App Store, a smarter way to learn French using the Pareto Principle.
 - <i class="bi bi-pencil"></i> Developed and delivered an AI PM Bootcamp to 80 professionals [Review the course notes](teaching.qmd).
 - <i class="bi bi-mic"></i> Spoke at a hedge fund company retreat on decision and outcome quality.
-- <i class="bi bi-rocket-takeoff"></i> Launched [The National Quiet Zone Association](https://quietzones.us) to help communities reduce train noise.
 
 ## Get in Touch
 
